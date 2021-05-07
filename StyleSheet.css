@@ -1,0 +1,44 @@
+img{
+	height: 250px;
+	width: 215px;
+	padding-right: 40px;
+	padding-left: 40px; 
+}
+body{
+	background: url(AmericanFlag.jpg) no-repeat center fixed;
+	background-size: cover;
+}
+h1{
+	color: white;
+	font-size: 40px;
+}
+p{
+	color: white;
+}
+#Header{
+	text-decoration: underline;
+	color: white;
+	font-size: 30px;
+	text-shadow: 2px 2px black;
+	text-align: center;
+}
+#Text{
+	color: white;
+	font-size: 20px;
+	text-shadow: 1px 1px black;
+}
+#Title{
+	color: white;
+	font-size: 60px;
+	text-shadow: 2px 2px black;
+}
+#Paragraph{
+	padding-left: 20px;
+	padding-right: 20px;
+	width: 400px;
+}
+#List{
+	padding-left: 20px;
+	padding-right: 20px;
+	width: 600px;
+}
